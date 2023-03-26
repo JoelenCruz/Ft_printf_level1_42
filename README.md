@@ -3,7 +3,7 @@
 
 ## 1- Clone
 	
-	git clone https://github.com/JoelenCruz/push_swap.git printf_jcruz-da
+	git clone https://github.com/JoelenCruz/ft_printf_42.git printf_jcruz-da
   
 ## 2- Navigate to folder printf_jcruz-da and run make
     
