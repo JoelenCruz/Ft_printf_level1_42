@@ -7,7 +7,7 @@
   
 ## 2- Navigate to folder printf_jcruz-da and run make
     
-    cd printf_jcruz-da
+    cd printf_jcruz-da/src
    	make
 
 ## 3- Objective
